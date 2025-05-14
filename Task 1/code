@@ -1,9 +1,0 @@
-
-## Verilog Code Summary
-- The module generates a signal using an internal clock (SB_HFOSC).
-- The top module controls an RGB LED using internal logic.
-- It uses an internal oscillator (SB_HFOSC) to create a clock.
-- A counter is used to slow the frequency.
-- LED output colors are toggled based on counter bits.
-- The red, green, and blue LEDs are driven by various parts of a counter that grows with each clock cycle, causing them to blink. 
-- testwire is used to check/debug signal behavior.
