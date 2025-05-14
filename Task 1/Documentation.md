@@ -1,6 +1,6 @@
-# VSDSquadron FPGA Mini – RGB LED Blinking Project
+# VSDSquadron FPGA Mini – RGB LED Blinking 
 
-This project demonstrates how to blink **Red**, **Green**, and **Blue LEDs** on the VSDSquadron FPGA Mini board using an internal oscillator and Verilog logic.
+This demonstrates how to blink **Red**, **Green**, and **Blue LEDs** on the VSDSquadron FPGA Mini board using an internal oscillator and Verilog logic.
 
 ---
 
@@ -51,8 +51,7 @@ This project demonstrates how to blink **Red**, **Green**, and **Blue LEDs** on 
 
 The video is shown below
 
-(https://github.com/BhoomikaVK-Sahyadri-ECE/VSDSquadron/blob/3bbcef859c46e74dd6e1c0b71b8a9d35e2d9b656/Task%201/Task1_video.mp4)
-
+[Demo](https://github.com/BhoomikaVK-Sahyadri-ECE/VSDSquadron/blob/main/Task%201/Task1_video.mp4)
 # Integrating with the VSDSquadron FPGA Mini Board:
 cd
 cd VSDSquadron_FM
