@@ -1,0 +1,6 @@
+//This .pcf file is a Pin Constraint File (PCF) — it tells the FPGA toolchain which FPGA I/O pins should be connected to which signals in your Verilog code.
+set_io  led_red	39
+set_io  led_blue 40
+set_io  led_green 41
+set_io  hw_clk 20
+set_io  testwire 17
