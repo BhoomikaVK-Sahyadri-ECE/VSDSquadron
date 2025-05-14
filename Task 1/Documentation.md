@@ -39,7 +39,7 @@ This project demonstrates how to blink **Red**, **Green**, and **Blue LEDs** on 
 
 ---
 
-## Pin Mapping – `vsdsquadron.pcf`
+## Pin Mapping – `VSDSquadronFM.pcf`
 
 | Signal     | FPGA Pin | Purpose                                 |
 |------------|----------|------------------------------------------|
