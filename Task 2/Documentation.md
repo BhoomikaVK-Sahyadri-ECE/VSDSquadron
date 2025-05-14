@@ -1,4 +1,4 @@
-# UART Loopback with RGB LED Control – Project Documentation
+# UART Loopback with RGB LED Control 
 
 ## Step 1: Study the Existing Code
 
