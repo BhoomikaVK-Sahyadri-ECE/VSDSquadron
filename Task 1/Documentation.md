@@ -51,7 +51,7 @@ This project demonstrates how to blink **Red**, **Green**, and **Blue LEDs** on 
 
 The video is shown below
 
-https://github.com/BhoomikaVK-Sahyadri-ECE/VSDSquadron/blob/3bbcef859c46e74dd6e1c0b71b8a9d35e2d9b656/Task%201/Task1_video.mp4
+(https://github.com/BhoomikaVK-Sahyadri-ECE/VSDSquadron/blob/3bbcef859c46e74dd6e1c0b71b8a9d35e2d9b656/Task%201/Task1_video.mp4)
 
 # Integrating with the VSDSquadron FPGA Mini Board:
 cd
